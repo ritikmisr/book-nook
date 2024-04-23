@@ -1,0 +1,16 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.app{
+  background:url(https://www.hitbullseye.com/images/school.svg);
+}
+
+.viewBook{
+  outline: none;
+  border: 1px solid white;
+  background-color: transparent;
+  padding: 5px 20px 5px 20px;
+  font-size: 20px;
+  color: white;
+}
